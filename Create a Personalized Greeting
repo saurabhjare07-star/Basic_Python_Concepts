@@ -1,0 +1,3 @@
+A = input("enter the first namer:")
+B = input("enter the last name:")
+print(f"hello,{A} {B}! welcome to the python program")
